@@ -2,7 +2,7 @@
 
 ### 2017-12
 
-* Understanding disentangling in $$\beta$$-VAE, NIPS 2017 workshop [ [note](notes/understanding-beta-vae.md) ] [ [paper](https://drive.google.com/open?id=0Bwy4Nlx78QCCNktVTFFMTUs4N2oxY295VU9qV25MWTBQS2Uw) ]
+* Understanding disentangling in $\beta$-VAE, NIPS 2017 workshop [ [note](notes/understanding-beta-vae.md) ] [ [paper](https://drive.google.com/open?id=0Bwy4Nlx78QCCNktVTFFMTUs4N2oxY295VU9qV25MWTBQS2Uw) ]
 
 ### 2017-05
 

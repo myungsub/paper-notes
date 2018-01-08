@@ -12,7 +12,7 @@ Two separate encoders produce distinct feature representations of content and po
 * Reconstruction loss : standard per-pixel $l_2$ loss between the predicted future frame $\tilde{x}^{t+k}$ and the actual frame $x^{t+k}$ for some random frame offset $k \in [0, K]$.
 ![recon_loss](../img/unsupervised-learning-disentangled-representations-from-video/recon_loss.png)
 
-* Similarity Loss : to ensure the content encoder extracts time-invariant representations, content features $h_c^t% and $h_c^{t+k}$ should be almost the same.
+* Similarity Loss : to ensure the content encoder extracts time-invariant representations, content features $h_c^t$ and $h_c^{t+k}$ should be almost the same.
 ![similarity_loss](../img/unsupervised-learning-disentangled-representations-from-video/similarity_loss.png)
 
 * Adversarial Loss
