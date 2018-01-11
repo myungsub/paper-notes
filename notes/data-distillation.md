@@ -7,7 +7,7 @@
 This paper borrows the inspiration from the famous knowledge distillation paper by Geoffrey Hinton [[link](https://arxiv.org/abs/1503.02531)]. Instead of distilling knowledge from **models** by using soft targets to train a student model, the authors propose to utilize additional **unlabeled data** with simulated labels for training, where they coined the term **omni-supervised learning**. The authors argue that recent visual recognition models are accurate enough to be self-trained based on unlabeled data. By making use of this additional data, their model achieved higher performance on COCO dataset compared to a baseline model which was trained only on labeled data.
 
 ### Approach
-![teaser](img/data-distillation/fig1.jpg)
+![teaser](../img/data-distillation/fig1.jpg)
 
 **Model distillation** uses predictions from multiple trained models, obtains a soft target from ensembled predictions and uses this as a label to train the student model. **Data distillation** uses a single trained model while it obtains multiple predictions from multiple *transformations* of single (unlabeled) input. Predictions are ensembled to train the student model. 
 
