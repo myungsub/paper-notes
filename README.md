@@ -6,6 +6,10 @@
 
 * Data Distillation: Towards Omni-Supervised Learning [ [note](notes/data-distillation.md) ] [ [paper](https://arxiv.org/abs/1503.02531) ]
 
+### 2017-11
+
+* Deep Image Prior [[note](notes/deep-image-prior.md)] [[paper](https://arxiv.org/pdf/1711.10925.pdf)] [[project page](https://dmitryulyanov.github.io/deep_image_prior)] [[code](https://github.com/DmitryUlyanov/deep-image-prior)]
+
 ### 2017-05
 
 * Unsupervised Learning of Disentangled Representations from Video  [ [note](notes/unsupervised-learning-of-disentangled-representations-from-video.md) ] [ [paper](https://arxiv.org/abs/1705.10915) ] [ [project page](https://sites.google.com/view/drnet-paper//) ] [ [code](https://github.com/edenton/drnet) ]
