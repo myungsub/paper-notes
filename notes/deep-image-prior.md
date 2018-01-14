@@ -13,12 +13,12 @@ Before reading this paper, skimming the network architecture and training concep
 
 Image restoration problems, which aim to recover original image $x$ having corrupted image $x_0$, are open formulated as an optimization tasks:
 
-![eq1](../img/deep_image_prior/eq1.png)
+![eq1](../img/deep-image-prior/eq1.png)
 
 where $E(x;x_0)$ is *data term* and $R(x)$ is an *image prior*.
 They model the prior $R(x)$ with a ConvNet $f_theta(z) = x$ where $theta$ is parameters of the ConvNet and $z$ is a fixed input. They assert that the prior term can be removed by selecting a good mapping $f_theta$, so the formulation changes to
 
-![eq3](../img/deep_image_prior/eq3.png)
+![eq3](../img/deep-image-prior/eq3.png)
 
 They said, this means "instead of searching for the answer in the image space we now search for it in the space of neural network's parameters".
 
@@ -28,7 +28,7 @@ They said, this means "instead of searching for the answer in the image space we
 The proposed method is using a randomly-initialized neural network as a handcrafted prior. 
 Here is a key experiment from the [paper](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf) to catch the meaning of the method.
 
-![fig1](../img/deep_image_prior/fig1.png)
+![fig1](../img/deep-image-prior/fig1.png)
 
 The experiment points out that natually-looking images are converged faster than the image plus noise for reconstruction tasks. So they could stop training the network before overfiting to noise.
 This means that the generator network is sufficient to capture low-level image statistics prior. In contrast, previous restoration networks learn realistic image priors from a large number of example images.
