@@ -14,7 +14,7 @@ Detailed approach is organized very nicely in the [blog post](https://thecurious
 
 * Entropy Minimization ([2004](https://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization)) : pull the unlabeld sample predictions to the *nearest* class, which is the same as just changing the prediction confidence.
 * Student-Teacher models : either make the student task harder, or the teacher task easier to learn something useful
-  * Harder student
+  * Harder student task
     * $\Gamma$ version of Ladder Networks ([2015](https://arxiv.org/abs/1507.02672)) : make a perturbed input and train it to mimic the clean prediction
     * Virtual Adversarial Training ([2015](https://arxiv.org/abs/1507.00677), [2017](https://arxiv.org/abs/1704.03976)) : make an *adversarial* sample for a pertubed input
   * Easier teacher task
@@ -41,4 +41,5 @@ Settings:
 * Student-Teacher models are very prominent these days. Seems like it somehow regularizes(?) models well and boosts generalization performance. We should all think about whether it will also help in our own problems of interest.
 
 ---
+> Jan. 10, 2018
 > Note by Myungsub

@@ -48,4 +48,5 @@ Several experiments:
   * How can we extend it to generate a more *realistic* videos?
 
 ---
+> Jan. 8, 2018
 > Note by Myungsub
