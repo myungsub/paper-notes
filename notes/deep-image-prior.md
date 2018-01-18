@@ -42,10 +42,8 @@ For each task, they handcrafted networks and energy functions to find efficient 
 
 
 ## My Toughts
-* The first equation, which they assert conventional image restration problem, is wrong. They used original image $x$ as a variable of the minimization.
+* Although some restoration performances are lower than learning based approaches which are overfited to a specific inverse function, the results are very impressive. 
 
-* So their objective function is not for an image restoration, but for an image generation. I'm not fully understanding why they removed the image prior term $R(x)$. By the final objective function, they perpose to generate degraded images.
+* In image super-resolution, recently there is another blind SR approach, called Zero Shot SR[paper](https://arxiv.org/abs/1712.06087). I'm curious about the comperision between ZSSR and deep image prior for unkown degraded images.
 
-* I think that they want to focus on the implicit regularization which has low impedance to naturally-looking images. However, the term *impedance* is also rethinkable. This is because *early stopping*, which they used for the results exactly, is a conventional term for implicit regularization in Machine Learning.
-
-* In short, deep neural networks can have image restoration priors depend on the architectures which can be shown by degraded image generation with early stopping.
+* I think there are lots of future researches for different image priors. For example, in inverse text inpainting problem which is removing background pictures rather than text, which architectures make proper image priors for the non-naturally-looking images?
