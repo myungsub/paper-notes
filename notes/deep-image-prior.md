@@ -41,9 +41,14 @@ For each task, they handcrafted networks and energy functions to find efficient 
 
 
 
-## My Toughts
+## My Thoughts
 * Although some restoration performances are lower than learning based approaches which are overfited to a specific inverse function, the results are very impressive. 
 
 * In image super-resolution, recently there is another blind SR approach, called Zero Shot SR[paper](https://arxiv.org/abs/1712.06087). I'm curious about the comperision between ZSSR and deep image prior for unkown degraded images.
 
 * I think there are lots of future researches for different image priors. For example, in inverse text inpainting problem which is removing background pictures rather than text, which architectures make proper image priors for the non-naturally-looking images?
+
+
+---
+> Jan. 18, 2018
+> Note by Heewon
