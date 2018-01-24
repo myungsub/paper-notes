@@ -8,7 +8,7 @@
 
 ### 2017-11
 
-* Deep Image Prior [[note](notes/deep-image-prior.md)] [[paper](https://arxiv.org/pdf/1711.10925.pdf)] [[project page](https://dmitryulyanov.github.io/deep_image_prior)] [[code](https://github.com/DmitryUlyanov/deep-image-prior)]
+* Deep Image Prior [[note](notes/deep-image-prior.md)] [ [paper](https://arxiv.org/pdf/1711.10925.pdf) ] [ [project page](https://dmitryulyanov.github.io/deep_image_prior) ] [ [code](https://github.com/DmitryUlyanov/deep-image-prior) ]
 
 ### 2017-05
 
@@ -24,6 +24,13 @@
 
 * β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework [ [note](notes/beta-vae.md) ] [ [paper](https://openreview.net/forum?id=Sy2fzU9gl) ]
 
+### 2016-10
+
+* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization [ [note](notes/gradcam.md) ] [ [paper](https://arxiv.org/pdf/1610.02391.pdf) ] [ [code](https://github.com/ramprs/grad-cam) ]
+
+### 2015-12
+
+* Learning Deep Features for Discriminative Localization [ [note](notes/gradcam.md) ] [ [paper](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) ] [ [project page](http://cnnlocalization.csail.mit.edu/) ] [ [code](https://github.com/metalbubble/CAM) ]
 <!-- mathjax -->
 <!-- For rendering web pages, this piece of code is useful.. but not for Github Markdown. -->
 <!-- <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
