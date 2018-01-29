@@ -1,4 +1,5 @@
 # Deep Image Prior
+# Deep Image Prior
 ### by Dmitry Ulyanov(Skoltech, Yandex), Andrea Vedaldi(Oxford), Victor Lempitsky(Skoltech)
 ### ArXiv:1711
 
@@ -16,7 +17,7 @@ Image restoration problems, which aim to recover original image $x$ having corru
 ![eq1](../img/deep-image-prior/eq1.png)
 
 where $E(x;x_0)$ is *data term* and $R(x)$ is an *image prior*.
-They model the prior $R(x)$ with a ConvNet $f_theta(z) = x$ where $theta$ is parameters of the ConvNet and $z$ is a fixed input. They assert that the prior term can be removed by selecting a good mapping $f_theta$, so the formulation changes to
+They model the prior $R(x)$ with a ConvNet $f_{\theta}(z) = x$ where $\theta$ is parameters of the ConvNet and $z$ is a fixed input. They assert that the prior term can be removed by selecting a good mapping $f_{\theta}$, so the formulation changes to
 
 ![eq3](../img/deep-image-prior/eq3.png)
 
