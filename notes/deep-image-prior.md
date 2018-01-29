@@ -1,5 +1,4 @@
 # Deep Image Prior
-# Deep Image Prior
 ### by Dmitry Ulyanov(Skoltech, Yandex), Andrea Vedaldi(Oxford), Victor Lempitsky(Skoltech)
 ### ArXiv:1711
 
