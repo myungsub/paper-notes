@@ -3,6 +3,8 @@
 ### 2018-01
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric [ [note](notes/the-unreasonable-effectiveness-of-deep-features-as-a-perceptual-metric.md) ] [ [paper](https://arxiv.org/abs/1801.03924v1) ] [[oroject page](https://richzhang.github.io/PerceptualSimilarity/)] [[code](https://github.com/richzhang/PerceptualSimilarity)]
 
+* MaskGAN: Better Text Generation via Filling in the ___________, ICLR 2018 [ [note](notes/mask-gan.md) ] [ [paper](https://arxiv.org/abs/1801.07736) ]
+
 ### 2017-12
 
 * Understanding disentangling in $\beta$-VAE, NIPS 2017 workshop [ [note](notes/beta-vae.md) ] [ [paper](https://drive.google.com/open?id=0Bwy4Nlx78QCCNktVTFFMTUs4N2oxY295VU9qV25MWTBQS2Uw) ]
