@@ -1,9 +1,15 @@
 # paper-notes
 
+### 2018-06
+
+* Learning to Extract a Video Sequence from a Single Motion-Blurred Image [ [note](notes/learning-to-extract-video.md) ] [ [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf) ]
+
 ### 2018-01
-* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric [ [note](notes/the-unreasonable-effectiveness-of-deep-features-as-a-perceptual-metric.md) ] [ [paper](https://arxiv.org/abs/1801.03924v1) ] [[oroject page](https://richzhang.github.io/PerceptualSimilarity/)] [[code](https://github.com/richzhang/PerceptualSimilarity)]
+
+* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric [ [note](notes/the-unreasonable-effectiveness-of-deep-features-as-a-perceptual-metric.md) ] [ [paper](https://arxiv.org/abs/1801.03924v1) ] [[project page](https://richzhang.github.io/PerceptualSimilarity/)] [[code](https://github.com/richzhang/PerceptualSimilarity)]
 
 * MaskGAN: Better Text Generation via Filling in the ___________, ICLR 2018 [ [note](notes/mask-gan.md) ] [ [paper](https://arxiv.org/abs/1801.07736) ]
+
 
 ### 2017-12
 
@@ -18,8 +24,6 @@
 ### 2017-05
 
 * Unsupervised Learning of Disentangled Representations from Video  [ [note](notes/unsupervised-learning-of-disentangled-representations-from-video.md) ] [ [paper](https://arxiv.org/abs/1705.10915) ] [ [project page](https://sites.google.com/view/drnet-paper//) ] [ [code](https://github.com/edenton/drnet) ]
-
-### 2017-04
 
 ### 2017-03
 
