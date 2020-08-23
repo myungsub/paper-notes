@@ -2,7 +2,7 @@
 
 ### 2019-06
 
-* Learning to Extract Flawless Slow Motion from Blurry Videos [ [note](notes/flawless-slomo) ] [ [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Learning_to_Extract_Flawless_Slow_Motion_From_Blurry_Videos_CVPR_2019_paper.pdf)] [ [code](https://github.com/MeiguangJin/slow-motion) ]
+* Learning to Extract Flawless Slow Motion from Blurry Videos [ [note](notes/flawless-slomo.md) ] [ [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Learning_to_Extract_Flawless_Slow_Motion_From_Blurry_Videos_CVPR_2019_paper.pdf)] [ [code](https://github.com/MeiguangJin/slow-motion) ]
 
 ### 2018-06
 
