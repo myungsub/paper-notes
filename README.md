@@ -4,6 +4,10 @@
 
 * Blurry Video Frame Interpolation [ [note](notes/blurry-vfi.md)] [ [paper](https://arxiv.org/pdf/2002.12259.pdf)] [ [code](https://github.com/laomao0/BIN)]
 
+### 2019-12
+
+* CondConv: Conditionally Parameterized Convolutions for Efficient Inference [ [note](notes/condconv.md)] [ [paper](https://arxiv.org/pdf/1904.04971.pdf)] [ [code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/condconv)]
+
 ### 2019-06
 
 * Learning to Extract Flawless Slow Motion from Blurry Videos [ [note](notes/flawless-slomo.md) ] [ [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Learning_to_Extract_Flawless_Slow_Motion_From_Blurry_Videos_CVPR_2019_paper.pdf)] [ [code](https://github.com/MeiguangJin/slow-motion) ]
