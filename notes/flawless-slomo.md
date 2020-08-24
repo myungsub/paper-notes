@@ -2,7 +2,7 @@
 ### by Meiguang Jin, Zhe He, and Paolo Favaro
 ### CVPR 2019
 
-This paper aims to generate the interpoltaions that are *sharp*, using the intermediate motion information that is contained in the blurry videos.
+This paper aims to generate the interpolations that are *sharp*, using the intermediate motion information that is contained in the blurry videos.
 Since blurs are the result of an averaging process, it inherently contains the (temporally) local motion.
 
 #### Advantages
