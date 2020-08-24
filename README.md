@@ -3,6 +3,8 @@
 ### 2020-06
 
 * Blurry Video Frame Interpolation [ [note](notes/blurry-vfi.md)] [ [paper](https://arxiv.org/pdf/2002.12259.pdf)] [ [code](https://github.com/laomao0/BIN)]
+* Dynamic Convolutions: Attention over Convolution Kernels [ [note](notes/dynamic-conv-attention.md)] [ [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Dynamic_Convolution_Attention_Over_Convolution_Kernels_CVPR_2020_paper.pdf)]
+* Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference [ [note](notes/dynamic-conv-sparsity.md)] [ [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Verelst_Dynamic_Convolutions_Exploiting_Spatial_Sparsity_for_Faster_Inference_CVPR_2020_paper.pdf)] [ [code](https://github.com/thomasverelst/dynconv)]
 
 ### 2019-12
 
